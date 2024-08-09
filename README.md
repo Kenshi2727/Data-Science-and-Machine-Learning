@@ -1,1 +1,4 @@
-all  codes will be uploaded here in my data science learning journey
+# DATA SCIENCE REPOSITORY
+## All python codes(.py) and notebooks(.ipynb) will be uploaded
+
+## Distributions used apart from standard(pip)-ANACONDA DISTRIBUTION
